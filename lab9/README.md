@@ -10,7 +10,7 @@ Each drama has a poster, title, genre, and personal rating out of five stars. Th
 
 | iPhone SE (3rd generation) | iPhone 16 Pro Max |
 |---|---|
-| <img src="screenshot/iPhone 16 Pro Max.png" width="260"> | <img src="screenshot/iPhone 16 Pro Max.png.png" width="260"> |
+| <img src="screenshot/iPhone 16 Pro Max.png" width="260"> | <img src="screenshot/iPhone 16 Pro Max.png" width="260"> |
 
 ## Project Structure
 
@@ -31,7 +31,7 @@ Open `FavoritesList.xcodeproj` in Xcode, select an iPhone simulator, and press `
 
 ## Screen Recording
 
-[Watch the scrolling demonstration](recording/Simulator Screen Recording - iPhone 16 Pro Max - 2026-11-06.mov)
+[Watch the scrolling demonstration](<recording/Simulator Screen Recording - iPhone 16 Pro Max - 2026-11-06.mov>)
 
 ## Note
 
